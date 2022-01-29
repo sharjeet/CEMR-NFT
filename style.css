@@ -35,6 +35,8 @@ h1 {
 	text-align: center;
 	color: #fff;
 	padding: 0 20px;
+	margin-bottom: 0;
+
 }
 
 .video-container {
@@ -97,6 +99,7 @@ h1 {
 	font-size: 1.2rem;
 	max-width: 600px;
 	margin: auto;
+	margin-top:0;
 }
 
 #about h2 {
